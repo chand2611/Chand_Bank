@@ -1,0 +1,30 @@
+body{
+    background-image: url("pixel.jpg");
+    background-repeat: inherit;
+    background-size: 100%;
+}
+#home{
+    color:white;
+    size: 30px;;
+
+}
+#head{
+    border-bottom: 1px solid coral;
+    color: white;
+}
+#head:hover{
+    background-color:coral;
+    color: black;
+    padding: 5px;
+}
+#secrow{
+    margin-top: 50px;
+}
+#wel{
+    padding-left: 70px;
+}
+#para{
+    margin-top: 20px;
+    padding-left: 15px;
+    text-align: center;
+}
